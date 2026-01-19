@@ -17,7 +17,7 @@ It's simple!
 
 1. Fork this repository.
 2. Navigate to [`_data/sites.yml`](./_data/sites.yml) and add your site (template below).
-3. Open a pull request and fill out the following template.
+3. Open a pull request and fill out the following template....
 
 ### Site template
 
